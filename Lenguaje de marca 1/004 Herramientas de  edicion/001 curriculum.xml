@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+  <datos_personales>
+    <nombre>Diones</nombre>
+    <apellidos>Gomes</apellidos>
+    <email>diones.medd@gmail.com</email>
+  </datos_personales> 
+  <experiencia_laboral>
+    <experiencia>
+      <empresa>CEAC</empresa>
+      <cargo>Estudiante de informatica. DAM desarollo de aplicaciones multiplataforma</cargo>
+      <inicio>2026-08</inicio>
+      <final>actualmente</final>
+    </experiencia>
+    <experiencia>
+    </experiencia>
+    <experiencia>
+    </experiencia>
+  </experiencia_laboral>
+  <formacion>
+  </formacion>
+</curriculum>

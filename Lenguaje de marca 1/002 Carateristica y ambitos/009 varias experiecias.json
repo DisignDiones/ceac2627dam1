@@ -1,0 +1,38 @@
+{
+	"datos_personales":{
+  	"nombre":"Diones",
+    "apellidos":"Gomes",
+    "email":{
+    	"personal":"diones.med@gmail.com",
+      "profesional":"diones.medd@gmail.com"
+    }
+  },
+  "formacion":[
+    { "Medico": "PSICOGERIATRIA Y GERONTOLOGIA INTENSIVO""}
+    
+    
+  "experiencia_laboral":[
+    {
+    	"empresa":"HOSPITAL GENERAL DE AGUSTO B.RIVADAVIA",
+      "posicion":"INTERNO DE MEDICINA",
+      "inicio":" ABRIL 2021",
+      "final":"ENERO 2022"
+    },
+    {
+    	"empresa":"HOSPITAL SANTA ROSA",
+      "posicion":" PRATICAS MEDICAS",
+      "inicio":"2020",
+      "final":"2020"
+    },
+    {
+    	"empresa":"LA FÈ",
+      "posicion":"M. GENERAL",
+      "inicio":"OCTUBRE 2023",
+      "final":"actualmente"
+    },
+    
+  ],
+  "idiomas":"  PORRUGUES NATIVO, ESPANHOL NIVEL ALTO",
+  "conduccion":"COCHE",
+  "hobbies":"TOCAR EL PIANO, GYM, TRAKING, LEER, PINTURA"
+}
