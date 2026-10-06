@@ -1,4 +1,0 @@
-ALTER TABLE Productos
-ADD Identificador INT AUTO_INCREMENT PRIMARY KEY;
-
-DESCRIBE Productos;
